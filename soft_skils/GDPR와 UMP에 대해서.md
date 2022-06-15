@@ -10,7 +10,7 @@ https://www.itworld.co.kr/news/229209#csidxbd9aedb0e743cd089686030c8f28ac2 
 
 이에 IAB(미국 인터넷광고 협회 : Interactive Advertising Bureau)는  발 빠르게 미국 광고 전문기구로 UMP라는 개인정보보호 관련 통합 솔루션을 제공하였습니다. 
 
-<img src="Data preferences.jpg" width="283px" height="461px" title="UMP 팝업" alt="ump_img"></img>
+<img src="./Data preferences.jpg" width="283px" height="461px" title="UMP 팝업" alt="ump_img"></img>
 
 아래와 같이 IP 주소에 따라 팝업을 제공하여 개인정보 설정 동의 여부를 수집하고 그에 맞추어  사용자가 자신의 데이터가 어디로 활용되는지의 세부 설정을 조율할 수 있게 한 것입니다. 광고에 활용되는 것도 차단되게 됩니다.
 
